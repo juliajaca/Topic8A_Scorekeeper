@@ -6,7 +6,7 @@
     </style>
 
     <style name="ScoreButtons" parent="Widget.AppCompat.Button">
-        <item name="android:background">@drawable/button_background</item>
+        <item name="android:background">@drawable/cambio_selector</item>
         <item name="colorPrimary">@color/purple_500</item>
         <item name="android:tint">@color/purple_500</item>
     </style>
