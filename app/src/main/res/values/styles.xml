@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+    </style>
+
     <style name="ScoreButtons" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/button_background</item>
         <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:tint">@color/purple_500</item>
     </style>
 
     <style name="PlusButtons" parent="ScoreButtons">
